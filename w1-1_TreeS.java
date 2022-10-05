@@ -1,8 +1,9 @@
 import java.util.TreeSet;
 import java.util.Random;
 import java.util.ArrayList;
+//此方式會出現安全性問題，需再想方法更改。
 
-public class w1_09291{
+public class w1-1_TreeS{
   public static void main(String args[]) {
     // 先亂數取十個數字
     Random rand = new Random();
