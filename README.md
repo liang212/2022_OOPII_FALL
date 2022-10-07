@@ -29,5 +29,5 @@ functionA(){
 ## Week3 1007：&nbsp;Lambda 沒作業
 
 ## 語法參考來源。  
-[1](https://blog.csdn.net/u012067966/article/details/50736647) &nbsp; [2](https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/ &nbsp; [3](https://ithelp.ithome.com.tw/articles/10203758) &nbsp; [4](https://markdown.tw/) &nbsp; [5](https://github.com/kaivin/markdown/blob/master/readme.md)
+[1](https://blog.csdn.net/u012067966/article/details/50736647) &nbsp; [2](https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/) &nbsp; [3](https://ithelp.ithome.com.tw/articles/10203758) &nbsp; [4](https://markdown.tw/) &nbsp; [5](https://github.com/kaivin/markdown/blob/master/readme.md)
 
