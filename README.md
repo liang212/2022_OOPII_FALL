@@ -15,6 +15,6 @@ https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
 ## Week2 0929:
 ##### 2.1單純實作出多執行緒:https://github.com/liang212/2022_OOPII_FALL/blob/main/w2_1_thread.java
 - [] 爆掉問題 未解決
--[] static 未解決
--[] 識別字問題 未解決
--[] 疑惑 未解決
+- [] static 未解決
+- [] 識別字問題 未解決
+- [] 疑惑 未解決
