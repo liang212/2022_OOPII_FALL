@@ -10,14 +10,14 @@ https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
     {收穫,疑惑}
 `2-1. valueOf跟parseInt差異`
 `2.2. static non-static取用`  
-`2.3. 我恨你輸入錯誤try-catch `=> 遞迴需分開return，以免內層接收資訊但外層未索取，只接收到外層回傳值。進入無限迴圈。
+`2.3. 我恨你輸入錯誤try-catch `
 ```functionA(){
-    if(){
+if(){
         return answer;
     }else{
         return functionA;
     }
-}
+}\\遞迴需分開return，以免內層接收資訊但外層未索取，只接收到外層回傳值。進入無限迴圈。
 ``` 
 ## Week2 0929:
 ##### 2.1單純實作出多執行緒:https://github.com/liang212/2022_OOPII_FALL/blob/main/w2_1_thread.java
