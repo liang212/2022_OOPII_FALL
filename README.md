@@ -7,8 +7,8 @@ https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
 * [未防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_HM.java
 * [防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_2_HM.java  
     我de出來了^^氣死  
-    {收穫,疑惑}
-`2-1. valueOf跟parseInt差異`
+    {收穫,疑惑}  
+    `2-1. valueOf跟parseInt差異`
 `2.2. static non-static取用`  
 `2.3. 我恨你輸入錯誤try-catch `
 ```functionA(){
