@@ -28,5 +28,6 @@ functionA(){
 - [ ] 疑惑 未解決
 ## Week3 1007：Lambda 沒作業
 
-## 語法參考來源。[1](https://blog.csdn.net/u012067966/article/details/50736647)
+## 語法參考來源。  
+[1](https://blog.csdn.net/u012067966/article/details/50736647)[2](https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/)[3](https://ithelp.ithome.com.tw/articles/10203758)[4](https://markdown.tw/)
 
