@@ -6,7 +6,7 @@ https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
 ##### (2) practice:  w1-2_HM.java
 * [未防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_HM.java
 * [防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_2_HM.java
-我de出來了^^氣死
+<n>我de出來了^^氣死</n>
 {收穫,疑惑}
 2-1. valueOf跟parseInt差異
 2.2. static non-static取用
