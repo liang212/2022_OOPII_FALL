@@ -11,7 +11,8 @@ https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
     `2-1. valueOf跟parseInt差異`
 `2.2. static non-static取用`  
 `2.3. 我恨你輸入錯誤try-catch `
-```functionA(){
+```JAVA
+functionA(){
 if(){
         return answer;
     }else{
