@@ -1,7 +1,7 @@
 # 2022_OOPII_FALL
 -----weekly homeworks ----
-## Week1 0922:
-##### (1) &nbsp; TreeSet practice:  w1-1_TreeS.java
+## Week1 0922: 
+##### (1) &nbsp; TreeSet practice: &emsp; w1-1_TreeS.java
 https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
 ##### (2) &nbsp; practice:  w1-2_HM.java
 * [未防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_HM.java
