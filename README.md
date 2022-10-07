@@ -4,8 +4,8 @@
 ##### (1)TreeSet practice:  w1-1_TreeS.java
 https://github.com/liang212/2022_OOPII_FALL/blob/main/w1-1_TreeS.java
 ##### (2) practice:  w1-2_HM.java
-[未防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_HM.java
-[防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_2_HM.java
+* [未防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_HM.java
+* [防呆]https://github.com/liang212/2022_OOPII_FALL/blob/main/w1_2_2_HM.java
 我de出來了^^氣死
 {收穫,疑惑}
 2-1. valueOf跟parseInt差異
