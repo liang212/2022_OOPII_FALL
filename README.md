@@ -28,7 +28,7 @@ functionA(){
 - [ ] 識別字問題 未解決
 - [ ] 疑惑 未解決
 ## Week3 1007：&nbsp;Lambda 沒作業
-https://github.com/liang212/2022_OOPII_FALL/blob/main/w3_notes.java  
+上課筆記：https://github.com/liang212/2022_OOPII_FALL/blob/main/w3_notes.java  
 重點:
 * lambda省略實作方法，直接判斷到該介面的唯一方法中，精簡語法。只能在有單一方法的介面執行。
 * java &nbsp; API:  &nbsp;  省略引數，以「::」表示
